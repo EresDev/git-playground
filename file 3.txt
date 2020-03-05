@@ -1,4 +1,5 @@
 file 3, change 1
 commit 3
 extra commit for remote
-second commit from remote
+added another line
+second commit from remote changed
